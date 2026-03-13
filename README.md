@@ -5,7 +5,7 @@ Welcome to my GitHub 👨‍💻
 I’m **Aditya Rawat**, a **Software Engineer** specializing in  
 **Generative AI, Distributed Systems, Cloud, and Full-Stack Engineering**.
 
-I have **3+ years of experience** building **production-grade AI systems,Full-Stack Applications and cloud-scale distributed platforms**, taking products from early research to reliable, real-world deployment.
+I have **2+ years of experience** building **production-grade AI systems,Full-Stack Applications and cloud-scale distributed platforms**, taking products from early research to reliable, real-world deployment.
 
 🎓 **M.S. in Computer Science & Engineering (AI/ML)**  
 📍 United States  
