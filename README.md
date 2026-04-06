@@ -83,7 +83,7 @@ My work includes:
 
 ---
 
-### ⚙️ Backend & Cloud Engineering (3+ years)
+### ⚙️ Backend & Cloud Engineering
 Previously, I built and scaled **Java / Spring Boot microservices**,  
 **Kafka-based streaming pipelines (100K+ events/sec)**, and **cloud-native systems on AWS**.
 
