@@ -9,7 +9,7 @@ I have **3+ years of experience** building **production-grade AI systems,Full-St
 
 🎓 **M.S. in Computer Science & Engineering (AI/ML)**  
 📍 United States  
-📩 Open to **Software Engineer, Backend Engineer, and Applied AI roles**
+📩 Open to **Software Engineer and Applied AI roles**
 
 ---
 
